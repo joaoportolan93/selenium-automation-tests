@@ -90,10 +90,6 @@ Para adicionar novos casos de teste:
 - Alguns sites de demonstração podem mudar sua estrutura HTML, causando falhas na execução
 - Em caso de conectividade lenta, alguns timeouts podem ocorrer
 
-## Autor
-
-[Seu Nome] - [Seu Email]
-
 ## Licença
 
 Este projeto está licenciado sob a licença MIT - veja o arquivo LICENSE para mais detalhes. 
