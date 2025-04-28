@@ -1,0 +1,51 @@
+# Arquivos específicos do projeto
+app.py
+"caso de teste.md"
+"Atividade Prática de Testes Automatizados com Selenium.docx"
+
+# Arquivos do Python
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# IDEs e editores
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Sistema operacional
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+
+# Arquivos de log
+*.log
+
+# Arquivos de cache
+chromedriver
+geckodriver
+*.png
+*.jpg 
